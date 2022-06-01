@@ -1,5 +1,5 @@
 {
-  "name": "comfortable-sakai-component",
+  "name": "@das08/comfortable-sakai-component",
   "version": "0.0.1",
   "description": "",
   "scripts": {
@@ -16,6 +16,6 @@
   },
   "homepage": "https://github.com/das08/comfortable-sakai-component#readme",
   "publishConfig": {
-    "@das08:registry": "https://npm.pkg.github.com"
+    "registry": "https://npm.pkg.github.com"
   }
 }
