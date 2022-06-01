@@ -14,5 +14,8 @@
   "bugs": {
     "url": "https://github.com/das08/comfortable-sakai-component/issues"
   },
-  "homepage": "https://github.com/das08/comfortable-sakai-component#readme"
+  "homepage": "https://github.com/das08/comfortable-sakai-component#readme",
+  "publishConfig": {
+    "@das08:registry": "https://npm.pkg.github.com"
+  }
 }
